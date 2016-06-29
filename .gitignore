@@ -1,0 +1,15 @@
+#IntelliJ files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Maven
+target/
+
+log/
+
+build/
+
+node_modules/
+
